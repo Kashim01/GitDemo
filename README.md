@@ -1,3 +1,3 @@
 # GitDemo
 <br>
-Auther : Kashim Sk
+Auther : Kashim Sk (student)
